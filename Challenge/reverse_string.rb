@@ -1,0 +1,1 @@
+puts "Dance the night away!".chars.reduce { |x, y| y + x }
