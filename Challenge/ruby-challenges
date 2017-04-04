@@ -1,0 +1,43 @@
+ X Write a program that prints 'Hello World' to the screen.
+X Write a program that asks the user for her name and greets her with her name.
+X Modify the previous program such that only the users Rick, Daryl and Michone are 
+  greeted with their names, everyone else is told to go out and find supplies.
+X Enter a number and have the computer tell you if it is an Odd or Even number.
+  - Do pry tutorial here
+   https://www.youtube.com/watch?v=nzKnh-hsVpg
+
+X Build the Odds or Evens game (like rockpaper scissors, but more basic).
+X FizzBuzz
+X Write a program that asks for two numbers and does all the math things to those two numbers
+X Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
+X Write a method that returns the largest element in an array.
+X Bob the unresponsive teenager (.match, regex, include, ends_with)
+X Write a restaraunt with menu items and prices (work as a group) (working with nested hashes)
+X Hamming (exercism)
+O Write method that reverses an array, preferably in place.
+x Reverse a string without using .reverse
+x Binary guessing game where cpu tells you a number is higher or lower from 1 - 25
+x Sort through an array and give the highest.
+x Space Age (calculate age on a different planet based on earth years) (exercism)
+x Rock Paper Scissors Spock Lizard.
+x Write a program that asks the user for a number n and gives him the possibility to choose between computing the sum and computing the product of 1,…,n.
+x Write a program that prints a multiplication table for numbers up to 12.
+     - warn the user if they pick a number higher than 100 on the product side. (warning, blah blah blah , do you want to continue? y/n)
+     - disable multiplying the product at a certain breakpoint TBD by you.
+x Write a method that checks whether an element occurs in an array.
+     - if it does, notify the user it exists.  If it does not, ask them for another suggestion or allow them to quit.
+x Write a method that combines two arrays by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
+x Write a guessing game where the user has to guess a secret number. 
+   After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
+x Write a method that gives the palindrome of anything entered.
+x Write a program that asks the user for a number n and gives him the possibility to  
+  choose between computing the sum and computing the product of 1,…,n.
+x Write a method that returns the elements on odd positions in an array. then do even, then do a given number.
+x Write a method that computes the running total of an array. Allow for the input of 
+  integers and strings (ie "one", "two"). Ask the user to enter "exit" when they want to exit.  BONUS:  Ask them if they want to do all the math things, and keep adding each of those to the total.
+x Write method that translates a text to Pig Latin and back. English is 
+   translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding 'ay'. "The quick brown fox" becomes "Hetay uickqay rownbay oxfay".
+x TruHearing job interview thing.  Array within arrays practice.
+x Write three methods that compute the sum of the numbers in an array: using a 
+  for-loop, a while-loop and recursion. 
+x Write a method on_all that applies a method to every element of an array. 
